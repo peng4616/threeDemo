@@ -1,4 +1,3 @@
-# 3d-map
 
 > A Vue.js project
 

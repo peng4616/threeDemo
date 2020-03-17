@@ -100,11 +100,6 @@ const  FBXLoader = require('three-fbx-loader');
 
 var loader = new FBXLoader();
 
- 
-    console.log(this.scene)
-
-
-
 loader.load('model/water/main.fbx',  (object3d)=>{
   this.scene.add(object3d);
 });

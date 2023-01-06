@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "exports-loader": "^0.7.0",
-    "httpster": "^1.0.4",
+    "httpster": "^1.1.0",
     "imports-loader": "^0.8.0",
     "obj-mtl-loader": "0.0.5",
     "three": "^0.96.0",
